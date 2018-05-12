@@ -1,10 +1,16 @@
 _repo: The-History-of-the-First-United-States-Flag-and-the-Patriotism-of-Betsy-Ross-the-Immortal-Her__51088
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51088-h/images/cover.jpg
 creator:
   author:
     agent_name: Reigart, J. Franklin
     gutenberg_agent_id: '46237'
     url: http://www.gutenberg.org/2009/agents/46237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51088#The-History-of-the-First-United-States-Flag-and-the-Patriotism-of-Betsy-Ross-the-Immortal-Her_
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
